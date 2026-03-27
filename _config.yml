@@ -30,3 +30,4 @@ exclude:
   - Gemfile.lock
   - README.md
   - LICENSE
+  - POST_TEMPLATE.md
