@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ray Dalio's Ultimate Warning: The Big Cycle Has Reset — Why 2026 Looks Like 1936"
-date: 2026-03-28
+date: 2026-03-27
 categories: [Stock-Economic]
 tags: [ray-dalio, big-cycle, geopolitics, macro, debt-crisis, world-order]
 author: Ark Newsletter
